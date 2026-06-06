@@ -1,7 +1,3 @@
-# lithuania-donation-analysis
-Interactive Streamlit app analysing Lithuanian charity donation patterns by municipality, built with Python, Plotly, and geospatial mapping.
-
-
 # Lithuania Donation Analysis
 An interactive Streamlit application analysing Lithuanian charity donation patterns by municipality, built as part of a university course "Data Mining for Business Intelligence" project at ISM University.
 
